@@ -1,5 +1,10 @@
 # Rokia Mohamed Mostafa
+> "Code is like humor . When you have to explain it, its bad."
 ### About Me
 * Engineering Student
-* Lerning C#
+* Learning C#
+### Skills
+* Languges: C#
+* Tools: VS Code , Git
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=r37539979-maker&them=radial)
