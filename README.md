@@ -4,7 +4,7 @@
 * Engineering Student
 * Learning C#
 ### Skills
-* Languges: C#
+* Languges: C# , C++ ,CS , Graphig Design
 * Tools: VS Code , Git
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=r37539979-maker&them=radial)
